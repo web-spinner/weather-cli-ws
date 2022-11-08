@@ -1,0 +1,25 @@
+{
+  "name": "wheather-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Maron Valoks",
+  "license": "ISC",
+  "homepage": "https://purpleshool.ru",
+  "repository": { 
+    "type": "git",
+    "url": "https://purpleshool.ru"
+  },
+  "bugs": {
+    "url": "https://purpleshool.ru",
+    "email": "web-spinner@mail.ru"
+  }
+}
